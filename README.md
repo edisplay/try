@@ -1,10 +1,15 @@
+# After nearly 8 years and over 1 billion code executions, Try .NET is **retiring on December 31st, 2025**.
+
+When we launched in 2017, GitHub Codespaces didn't exist yet, C# Dev Kit was years away, and AI-powered coding wasn't on the horizon. Try .NET gave developers something they needed: the ability to experiment with C# directly in their browser, no setup required.
+
+We're incredibly proud of what Try .NET accomplished and grateful to everyone who used it, learned with it, and contributed to it. You helped shape what came next and the world has evolved. Today's developers have powerful local development tools that would have seemed like magic back then. It's time for us to focus our energy there.
+
+Thank you for being part of the journey. Try .NET may be retiring, but the mission to make C# development delightful and accessible continues.
+**Get started with modern C#:** [C# Dev Kit tutorial](https://dotnet.microsoft.com/en-us/learn/dotnet/hello-world-tutorial)
+
+---
+
 # Try .NET <img src ="https://user-images.githubusercontent.com/2546640/56708992-deee8780-66ec-11e9-9991-eb85abb1d10a.png" width="80px" alt="dotnet bot in space" align ="right">
-|| [**Contribution Guidelines**](#contribution-guidelines) || [**Table of contents**](#table-of-contents) || [**Customers & Partners**](#customers--partners) ||
-
-![Try_.NET Enabled](https://img.shields.io/badge/Try_.NET-Enabled-501078.svg)
-
-
-[![Build Status](https://dev.azure.com/dnceng-public/public/_apis/build/status/dotnet/try/try-ci?branchName=main)](https://dev.azure.com/dnceng-public/public/_build?definitionId=62&branchName=main)
 
 ## Welcome to the Try .NET repo.
 
